@@ -1,6 +1,6 @@
 # 2021c
 這是我在資傳一甲的程式的專案倉庫
-
+![treasure.jpg](treasure.jpg)
 # 第01週
 ```c
 #include <stdio.h>
