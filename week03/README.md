@@ -1,6 +1,6 @@
-#week03
+# week03
 
-##week03-1
+## week03-1
 ```c++
 #include <stdio.h>
 int main()
@@ -12,7 +12,7 @@ int main()
 
 ```
 
-##week03-2
+## week03-2
 ```c++
 #include <stdio.h>
 int main()
@@ -25,7 +25,7 @@ int main()
 
 ```
 
-##week03-3
+## week03-3
 ```c++
 #include <stdio.h>
 int main()
@@ -37,7 +37,7 @@ int main()
 
 ```
 
-##week03-4
+## week03-4
 ```c++
 #include <stdio.h>
 int main()
@@ -51,7 +51,7 @@ int main()
 
 ```
 
-##week03-5
+## week03-5
 ```c++
 #include <stdio.h>
 int main()
